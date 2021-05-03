@@ -8,9 +8,27 @@
 
 .nav-links{
     list-style-type: none;
-    color: #df6530;
     position: absolute;
     left: 1109px;
+}
+
+
+
+a {
+    color: #df6530;
+    text-decoration: none;
+    font-family: Montserrat, sans-serif;
+}
+
+
+a:active {
+    color: #0073af;
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #2a5490;
+    text-decoration: none; 
 }
 
 .go-logo {
@@ -18,6 +36,8 @@ position: absolute;
 left: 10px;
 top: -75px;
 }
+
+
 
 
 /* ------------------------------------------- Home Hero Image */
@@ -49,7 +69,7 @@ font-family: Montserrat;
 font-weight: 500;
 float: right;
 position: absolute;
-top: 330px;
+top: 230px;
 right: 32px;
 width: 350px;
 height: 10px;
@@ -63,7 +83,7 @@ font-family: Montserrat;
 font-weight: 400;
 float: right;
 position: absolute;
-top: 430px;
+top: 330px;
 right: 66px;
 max-width: 270px;
 height: 10px;
@@ -81,7 +101,7 @@ color: #fff;
 }
 
 #social-media {
-    
+
 }
 
 
