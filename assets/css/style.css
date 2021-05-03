@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100, 200, 300, 400, 500 &display=swap');
+
+/* ------------------------------------------- Go Tennis Logo & Navigation */
+
+.nav {
+    height:245px;
+}
+
+.nav-links{
+    list-style-type: none;
+    color: #df6530;
+    position: absolute;
+    left: 1109px;
+}
+
+.go-logo {
+position: absolute;
+left: 10px;
+top: -75px;
+}
+
+
+/* ------------------------------------------- Home Hero Image */
+
+.home-hero {
+position: relative;
+top: -140px;
+max-width: 100%;
+width: 1550px;
+padding: 0;
+margin: 0;
+}
+
+
+/* ------------------------------------------- Home Welcome Box */
+
+#blue-box { 
+  background: #2a5490;
+  position: relative;
+  top: -140px;
+  max-width: 100%;
+  left: -15px;
+  padding: 0;
+  margin: 0;
+}
+
+.welcome { 
+font-family: Montserrat;
+font-weight: 500;
+float: right;
+position: absolute;
+top: 330px;
+right: 32px;
+width: 350px;
+height: 10px;
+text-align: center;
+color: #fff; 
+}
+
+
+.tips { 
+font-family: Montserrat;
+font-weight: 400;
+float: right;
+position: absolute;
+top: 430px;
+right: 66px;
+max-width: 270px;
+height: 10px;
+text-align: center;  
+color: #fff;
+}
+
+
+
+/* ------------------------------------------- Footer */
+
+.hr-line {
+    color: #bac1d0;
+    border-width: 2px;
+}
+
+#social-media {
+    
+}
+
+
+
+
+/* ------------------------------------------- Media Queries */
